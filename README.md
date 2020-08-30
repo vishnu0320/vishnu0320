@@ -3,6 +3,7 @@
 ### 👨🏻‍💻 About Me
 
 _💼 &nbsp; Software Developer [@Daffodil Software Pvt. Ltd.](https://http://daffodilsw.com/)_
+
 _🎓 &nbsp; Master of Computer Application from Guru Jambheshwar University of Science And Technology, Hisar_
 
 ### 🛠 Tech Stack
