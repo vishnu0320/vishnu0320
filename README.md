@@ -2,7 +2,7 @@
 
 _Software Developer [@Daffodil Software Pvt. Ltd.](https://http://daffodilsw.com/)_
 
-[![Linkedin: vishnu gupta](https://img.shields.io/badge/-vishnu gupta-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-gupta-74a8831b1/)](https://www.linkedin.com/in/vishnu-gupta-74a8831b1/)
+[![Linkedin: vishnu gupta](https://img.shields.io/badge/-vishnu-gupta-74a8831b1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vishnu-gupta-74a8831b1/)](https://www.linkedin.com/in/vishnu-gupta-74a8831b1/)
 [![GitHub vishnu](https://img.shields.io/github/followers/vishnu0320?label=follow&style=social)](https://github.com/vishnu)
 
 <--
